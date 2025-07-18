@@ -1,11 +1,11 @@
 #Dobro, Triplo, Raiz Quadrada
 print('DOBRO, TRIPLO E RAIZ QUADRADA:\n')
 
-num =int(input('Digite um numero: '))
+num = int(input('Digite um numero: '))
 
 dobro = num * 2
 triplo = num * 3
-raiz = num **(1/2) # Coisa Feia
+raiz = num **(1/2) # Coisa Feia(Sem importar Math(biblioteca))
 
 print('\nResultado:') 
 print(f'O dobro de {num} é: {dobro}')
