@@ -1,4 +1,4 @@
-# Culculando o Preço de um carro alugado
+# Calculando o Preço de um carro alugado
 
 print('CALCULO DE PREÇO DO ALUGUEL: \n|Dia = R$60 \n|Km = R$0.15\n')
 
