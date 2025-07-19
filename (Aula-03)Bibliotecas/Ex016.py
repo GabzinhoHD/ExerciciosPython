@@ -1,6 +1,6 @@
 # Quebrando um numero
 from math import trunc
-print('PARTE INTEIRA DE UM VALOR REAL:\n')
+print('\033[1;33;40mPARTE INTEIRA DE UM VALOR REAL:\033[m\n')
 
 num = float(input('Digite um numero decimal: '))
 
