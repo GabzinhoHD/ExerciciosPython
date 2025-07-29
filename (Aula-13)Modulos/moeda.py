@@ -18,13 +18,14 @@ def diminuir(n, v):
     v = (100 - v) / 100
     d = n * v
     return d
+"""
 
 # Ex108
 def formatar(n):
     f = f'R${n:.2f}'
     return f
 
-"""
+
 
 # Ex 0109
 def metade(n, f=False):
